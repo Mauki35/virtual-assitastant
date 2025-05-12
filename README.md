@@ -30,5 +30,5 @@ Professional portfolio website showcasing Virtual Assistant services, skills, an
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/Mauki35/virtual-assistanto.git
+   git clone https://github.com/Mauki35/virtual-assistant.git
    cd Portfolio
